@@ -1,1 +1,0 @@
-#to_rotate_or_not_to_rotate
